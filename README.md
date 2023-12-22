@@ -7,6 +7,8 @@ Es esencial destacar que este código está configurado para operar en un entorn
 
 El trabajo de investigación se basa en la premisa de que la replicación y ejecución exitosa del código requiere una configuración específica del entorno, incluyendo la instalación de bibliotecas de Python, la preparación de los datos y la adecuada inicialización de los modelos. Esto se debe a la naturaleza experimental y exploratoria del trabajo, que busca analizar y validar la efectividad de los modelos propuestos en el contexto particular de la predicción de la calidad del clinker.
 
+Archivo de ejecucion: Prueba6 es el archivo donde se encuentra el modelo predictivo.
+
 Base de datos:
 El archivo que le permitirá obtener la tabla final de la base de datos es: calidad_clinker_202312221745.csv.
 
