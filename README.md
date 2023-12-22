@@ -6,3 +6,6 @@ El código desarrollado para este trabajo de investigación representa una imple
 Es esencial destacar que este código está configurado para operar en un entorno local y puede no ser directamente transferible a otros dispositivos sin realizar ajustes específicos. La razón detrás de esta limitación radica en las dependencias específicas del entorno y las bibliotecas utilizadas, las cuales deben instalarse manualmente en el sistema donde se desee ejecutar el código.
 
 El trabajo de investigación se basa en la premisa de que la replicación y ejecución exitosa del código requiere una configuración específica del entorno, incluyendo la instalación de bibliotecas de Python, la preparación de los datos y la adecuada inicialización de los modelos. Esto se debe a la naturaleza experimental y exploratoria del trabajo, que busca analizar y validar la efectividad de los modelos propuestos en el contexto particular de la predicción de la calidad del clinker.
+
+DASHBOARD:
+Si desea visualizar el dashboard, debe utilizar grafana, donde debe agregar el archivo JSON llamado
